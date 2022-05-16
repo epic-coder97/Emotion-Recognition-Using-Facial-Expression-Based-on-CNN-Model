@@ -35,3 +35,6 @@ Also, please make sure all required python libraries are installed locally.
 If you wish to retrain the model, please Open Anaconda prompt in this folder's location and use the following command to train the model again.
 
 Command: python train.py
+
+
+https://youtu.be/CgDwDyIpGcE
